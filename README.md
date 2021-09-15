@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rzheng14
 - 👀 I’m interested in publishing an app to the app store.
 - 🌱 I’m currently learning Mobile App Developement (Swift/obj-C)
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://www.linkedin.com/in/richardzheng-nyc/
 
 <!---
